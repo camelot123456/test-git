@@ -1,3 +1,4 @@
 dev: init
 dev: commit 1
+dev: commit 2
 master: commit 2
