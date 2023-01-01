@@ -1,4 +1,4 @@
 master: init
 master: comment 1
 master: comment 2
-dev: commit 3
+master: edit -> dev: commit 3
